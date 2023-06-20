@@ -1,10 +1,10 @@
 # Nifty50 stocksTime series Analysis using ARIMA
 DESCRIPTION
-Busiest Airports by Passenger Traffic
-SUMMARY
-Top 30 world's busiest airports by international passenger traffic and top 50 world's busiest airports by passenger traffic. Data are measured by total passengers (data from Airports Council International (ACI), defined as passengers enplaned plus passengers deplaned plus direct-transit passengers. Hartsfield-Jackson International Airport in Atlanta has been the world's busiest airport every year since 2000; with all airports combined London has the world's busiest city airport system by passenger count. In 2013 there were 129 million passengers at London airports. Data available from Airports Council International
 
-Source: https://data.gov.uk/busiest-airports-by-passenger-traffic
-Last updated at https://ckan.publishing.service.gov.uk/dataset : 2019-12-27
+Nifty50 is one of the two leading Indian stock market benchmark indices. It is studied and analyzed by a broad audience from hobbyists to professionals.
 
-A time series anlaysis is performed using Facebook Prophet to forecast the passenger traffic.
+Content
+Nifty50 price history since 26 June 2009, when the computation was changed to a free-float methodology.
+
+Acknowledgements
+Thanks, National Stock Exchange of India Ltd. for making data available freely on the NSE website.
